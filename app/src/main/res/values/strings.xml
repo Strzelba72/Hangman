@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="settings_menu_label">Settings</string>
+    <string name="level_game_key">levelGameKey</string>
+    <string name="language_game_key">languageGameKey</string>
+    <string-array name="hangman_spinner_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+</resources>
